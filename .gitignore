@@ -87,3 +87,5 @@ build
 *.logs
 
 README.md
+
+.env.example
