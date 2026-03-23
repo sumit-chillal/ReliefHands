@@ -9,7 +9,7 @@ import { MapPin, Navigation, Phone, Mail, ArrowLeft, Heart } from "lucide-react"
 import { toast } from "sonner";
 
 const API = `${process.env.REACT_APP_BACKEND_URL}/api`;
-const GOOGLE_MAPS_API_KEY = "AIzaSyBt5bDGaE1cKcIaVLz9iRq9A7j5h5DxYkM"; // You'll need to add this to .env
+const GOOGLE_MAPS_API_KEY = ; // You'll need to add this to .env
 
 const MapsPage = () => {
   const navigate = useNavigate();
